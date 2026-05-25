@@ -42,7 +42,7 @@ Rock-Paper-Scissors/
 
 ## 🚀 Live Demo
 
-[Play Game Here](https://github.com/mohdhi5253/rock-paper-scissors)
+[Play Game Here](https://mohdhi5253.github.io/rock-paper-scissors/)
 
 ## 📱 Responsive Design
 
